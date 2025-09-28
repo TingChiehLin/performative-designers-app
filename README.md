@@ -30,6 +30,11 @@ An AI-power education for recognition built with Swift and Xcode that helps user
    ```bash
    git clone https://github.com/yourusername/ProjectName.git
 
+## 🎨 Gallery
+
+![Feed](./imgs/feed.PNG)
+![Daily](./imgs/daily.PNG)
+![Profile](./imgs/profile.PNG)
 
 ### Reference
 

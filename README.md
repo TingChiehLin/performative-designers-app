@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# weSpy ✨
   
 An AI-power education for recognition built with Swift and Xcode that helps users manage daily tasks with gamification features.
 
@@ -37,6 +37,17 @@ An AI-power education for recognition built with Swift and Xcode that helps user
   <img src="./imgs/daily.PNG" alt="Daily" width="250"/>
   <img src="./imgs/profile.PNG" alt="Profile" width="250"/>
 </p>
+
+### Demo Video
+
+<div>
+    <a href="https://www.loom.com/share/1df1bf3d330b4e2db11594cdbd8b9d6f">
+      <p>iPhone Mirroring - 28 September 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/1df1bf3d330b4e2db11594cdbd8b9d6f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1df1bf3d330b4e2db11594cdbd8b9d6f-5d776a9c902b289e-full-play.gif">
+    </a>
+</div>
 
 ### Reference
 

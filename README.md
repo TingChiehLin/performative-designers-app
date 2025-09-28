@@ -32,7 +32,7 @@ An AI-power education for recognition built with Swift and Xcode that helps user
 
 ## 🎨 Gallery
 
-<p align="center">
+<p>
   <img src="./imgs/feed.PNG" alt="Feed" width="250"/>
   <img src="./imgs/daily.PNG" alt="Daily" width="250"/>
   <img src="./imgs/profile.PNG" alt="Profile" width="250"/>
